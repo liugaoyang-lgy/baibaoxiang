@@ -1,0 +1,55 @@
+body{
+    width: 780px;
+    margin: auto;
+}
+
+
+
+.boss{
+
+    height: 700px;
+    width: 500px;
+    background: #68cdd5;
+}
+
+.one{
+    float: right;
+    margin-top: 120px;
+    margin-right: 180px;
+    color: azure;
+    font-size: 40px;
+
+}
+
+.two{
+    float: right;
+    margin-top: 200px;
+    margin-right: 80px;
+    margin-left: 80px;
+    color: azure;
+    font-size: 20px;
+}
+.there {
+    float: right;
+    margin-top: -325px;
+    margin-right: 310px;
+}
+
+.four {
+    float: right;
+    margin-top: 80px;
+    margin-right: 380px;
+}
+
+
+
+.six{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: -50px;
+    margin-right: 60px;
+
+  background:#009e96 ;
+    border-radius: 50px;
+}

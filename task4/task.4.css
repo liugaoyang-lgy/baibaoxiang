@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    background: #eff0f4;
+
+
+}
+.one{
+    background: #5fc0cd;
+    height: 90px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+.one1{
+
+    color: azure;
+    font-size: 32px;
+margin-left: 25px;
+}
+.one2{
+
+    color: azure;
+    font-size: 32px;
+
+
+}
+.one3{
+
+    color: azure;
+    font-size: 32px;
+margin-right: 25px;
+
+}
+.two{
+    background: #ffffff;
+    height: 100px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.two1{
+    margin-left: 45px;
+
+}
+.two2{
+
+    margin-left: 50px;
+    height:40px; border:1px
+     solid #e9eced;
+
+}
+.two3{
+    margin-left: 50px;
+
+    border:none;
+  height: 25px;
+    outline: none;
+    font-size: 30px;
+
+}
+.there{  background: #ffffff;
+    height: 100px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+
+}
+.there1 {
+    margin-left: 45px;
+}
+.there2
+{margin-left: 50px;
+    height:40px; border:1px
+solid #e9eced;
+
+}
+.there3{
+    margin-left: 50px;
+
+    border:none;
+    height: 25px;
+    outline: none;
+    font-size: 30px;
+
+}
+.four{
+    margin-top: 20px;
+    background: #5fc0cd;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    color: azure;
+    font-size: 32px;
+    align-items: center;
+
+}
+.five{
+    color: #5fc0cd;
+    float: right;
+    margin: 13px 20px;
+    font-size: 30px;
+}

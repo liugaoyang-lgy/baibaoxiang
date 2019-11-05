@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    background: white;
+    min-width: 400px;
+
+}
+.one{
+    background: #5fc0cd;
+  height: 50px;
+    display: flex;
+    justify-content: center;
+    flex-grow:1;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+}
+.one1{
+    flex-grow:1;
+    margin-left: 10px;
+}
+.one2{
+    flex-grow:1;
+    color: white;
+    font-size: 25px;}
+
+.two{display: flex;
+    align-items: center;
+
+
+    background-image:url("img/图层 2.png");
+   height: 300px;
+    weight: 100%;
+    background-size: 100% 100%;
+}
+.two1{
+margin-left: 30px;
+
+}
+.two2{
+    margin-left: 80px;
+    color: white;
+    font-size: 22px;
+}
+.two3{
+
+    display: flex;
+    align-items: center;
+
+    font-size: 17px;
+    margin-top: 10px;
+}
+.there{
+    display: flex;
+    align-items: center;
+    background: white;
+    height: 70px;
+
+}
+.there2{
+    color: #5fc0cd;
+    margin-left: 15px;
+    font-size: 17px;
+}
+.there1{
+    margin-left: 25px;
+    font-size: 22px;
+
+}
+.four
+{
+    weight:auto;
+    height: 1px;
+    background:#CDCAC6 ;
+}
+.five{
+
+    height: 70px;
+}
+.five1{
+    display: flex;
+    align-items: center;
+    margin-left: 42px;
+    height: 70px;
+    font-size: 22px;
+}
+.five3{display: flex;
+    align-items: center; font-size: 22px;}
+.five2{
+    color:#CDCAC6;
+}
+
+.four1 {
+    weight:auto;
+    height: 1px;
+    background:#CDCAC6 ;
+    margin-left: 25px;
+}
+.six{
+    display: flex;
+    align-items: center;
+    margin-left: 42px;
+    height: 70px;
+    font-size: 22px;
+    color: #989494;
+
+}
+.six1{
+    font-size: 22px;
+    color:black;
+
+}
+.six2{ font-size: 22px;
+    color: #e26163;
+}
+.six3{ display: flex;
+    align-items: center;
+    height:70px;
+    font-size: 19px;
+color:black;
+}
+.six4{
+    min-width: 120px;
+}
+.seven{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 800px;
+    position: fixed ;
+    bottom: 10px;
+    width: 100%;
+}
+.seven1{
+    width: 50%;
+    display: flex;
+
+margin-left: 30px;
+
+    height:60px;
+    border-radius:15px;
+    text-align: center;
+    border: 2px solid #5fc0cd;
+    justify-content: center;
+    color: #5fc0cd;
+    font-size: 22px; align-items: center;
+
+}
+.seven2{
+    width: 50%;
+    display: flex;
+background:  #5fc0cd;
+    font-size: 22px;
+
+    height:60px;
+    border:2px solid ;
+    border-radius:15px;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    margin-left: 30px;
+    align-items: center;
+    margin-right: 30px;
+
+}

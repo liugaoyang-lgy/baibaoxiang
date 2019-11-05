@@ -19,6 +19,7 @@ body{
     margin-left: 10px;
 }
 .one2{
+    margin-right: 10px;
     flex-grow:1;
     color: white;
     font-size: 25px;}

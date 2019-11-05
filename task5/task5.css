@@ -84,7 +84,8 @@ margin-left: 30px;
     font-size: 22px;
 }
 .five3{display: flex;
-    align-items: center; font-size: 22px;}
+    align-items: center; font-size: 22px;
+background: white}
 .five2{
     color:#CDCAC6;
 }
@@ -121,6 +122,16 @@ color:black;
 .six4{
     min-width: 120px;
 }
+.six12{
+    display: flex;
+    align-items: center;
+    margin-left: 42px;
+
+    font-size: 22px;
+    color: #989494;
+
+}
+
 .seven{
     display: flex;
     justify-content: center;

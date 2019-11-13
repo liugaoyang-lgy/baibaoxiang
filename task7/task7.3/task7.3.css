@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    background-color: #29bde0;
+}
+.header {
+    border-bottom: 1px solid #74d4eb;
+    position:fixed;
+    width: 100%;
+    background-color: #29bde0;
+}
+.header_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    color: #fff;
+}
+.main{
+    width: 100%;
+}
+.main_1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 321px;
+    padding-top: 108px;
+    background-image: url(../img/11.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main_1_1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    margin-top: 140px;
+}
+
+.main_1_2 {
+    margin-right: 15%;
+    margin-left: 15%;
+    font-size: 23px;
+    color: #ffc865;
+    margin-top: 30px;
+}
+.main_2_1{
+    margin-top: 30px;
+    margin-left: 15%;
+    font-size: 17px;
+    color: #fff;
+}
+.main_2_2{
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-bottom: 10px;
+    font-size: 17px;
+    color: #fff;
+}
+.main_3{
+    border-top: 1px solid #dddddd;
+    height: 100px;
+    background: white;
+}
+.main_3_1{
+    display: flex;
+    justify-content:space-between;
+    padding-top: 5px;
+
+
+}
+.main_3_1_1{
+
+    font-size: 20px;
+    margin-left: 15%;
+    color: #727272;
+}
+.main_3_1_2{
+    font-size: 15px;
+    margin-right: 15%;
+    color: #dddddd;
+}
+.main_3_2{
+    margin-top: 5px;
+    margin-left: 15%;
+    font-size: 15px;
+    color: #bcbcbc;
+
+}
+.main_3_3{
+    padding-bottom: 100px;
+    margin-top: 5px;
+    padding-left: 15%;
+    font-size: 15px;
+    background-color: #fff;
+    color: #bcbcbc;
+}
+
+
+.main_3_b{
+    background-color: #fff;
+}
+
+.footer_1 {
+
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    opacity: 0.5;
+    bottom: 0;
+    background-color: #29bde0;
+}
+.footer_2{
+    position: fixed;
+    opacity: 1;
+    height: 60px;
+    width: 40vw;
+    left: 30px;
+    bottom: 10px;
+    background-color: #f66f6f;
+
+    border-radius: 10px;
+    font-size: 25px;
+    text-align:center ;
+    line-height: 60px;
+    color: #fff;
+}
+
+.footer_3{
+    position: fixed;
+    opacity: 1;
+    height: 60px;
+    width: 40vw;
+    right: 30px;
+    bottom: 10px;
+    background-color: #d7ab5e;
+    border-radius: 10px;
+    font-size: 25px;
+    text-align:center ;
+    line-height: 60px;
+    color: #fff;
+}

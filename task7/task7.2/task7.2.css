@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    background-color: #29bde0;
+}
+.header{
+    position:fixed;
+    width: 100%;
+    background-color: #29bde0;
+}
+.header1{
+    display: flex;
+    justify-content:space-between;
+    align-items:  center;
+    margin: 20px;
+    font-size: 25px;
+    color: #fff;
+
+}
+
+.header2{
+    background-color: #b9e9f5;
+}
+.header2_2{
+    height: 60px;
+    display: flex;
+    margin-right: 15px;
+    margin-left: 40px;
+    justify-content:space-between;
+    align-items:  center;
+    font-size: 17px;
+
+}
+.header2_3{
+    margin-left: 50px;
+
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 10px solid #b9e9f5 ;
+
+}
+.header2_4{
+    margin-top: 7px;
+    margin-left: 50px;
+    font-size: 16px;
+    color: #fff;
+    height: 50px;
+
+}
+
+.main{
+
+    margin:0 10%;
+    display: flex;
+    justify-content:space-between;
+}
+.main_1{
+    height: 12vw;
+    width: 15vw;
+    min-width: 70px;
+    min-height: 50px;
+    margin-top: 210px;
+
+    background: #f5c97b;
+    border: 5px solid #fff ;
+    border-bottom: none;
+    font-size: 19px;
+    text-align: center;
+    line-height: 8vh;
+    color: #565656;
+}
+.main_1_1{
+    width: 15vw;
+    min-width: 70px;
+    min-height: 50px;
+    margin-top: 25%;
+height: 12vw;
+    background: #f5c97b;
+    border: 5px solid #fff ;
+    border-bottom: none;
+    font-size: 19px;
+    text-align: center;
+    line-height: 8vh;
+    color: #565656;
+}
+.main_2{
+    width: 15vw;
+    min-width: 70px;
+    min-height: 20px;
+    height: 3vw;
+    background: #83b09a;
+    border: 5px  solid #fff;
+   border-top: none;
+    font-size: 13px;
+    text-align: center;
+    line-height: 2.5vh;
+    color: #fff;
+}
+.xxx{
+    min-height: 17px;
+    height: 4vw;
+    min-width: 80px;
+    width: 15vw;
+    opacity: 0;
+}
+.ccc:hover .xxx{
+        opacity: 1;
+    }
+.ccc_1:hover .xxx{
+    opacity: 1;
+}
+.footer{
+    display: flex;
+    justify-content:center;
+    align-items:  center;
+    position:fixed;
+    width: 80%;
+    margin: 0 10%;
+    border-top: 1px solid #fff;
+    bottom: 0px;
+    height: 130px;
+
+    background-color: #29bde0;
+}
+
+.footer_1{
+    height: 80px;
+    width: 70vw;
+    background-color: #fbb435;
+    font-size: 25px;
+    text-align: center;
+    line-height: 80px;
+    color: #fff;
+
+}
+.ccc_1{
+    margin-bottom: 150px;
+
+}
+
+.bgm {
+    transform: rotateY(180deg);
+    margin-top: 84px;
+    position: absolute;
+    right: 12px;
+    opacity: 0;
+    z-index: 1;
+
+}
+.a1{
+
+}
+a{
+    text-decoration:none;
+    out-line: none;
+    color: #fff;
+}

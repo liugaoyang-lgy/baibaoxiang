@@ -87,6 +87,7 @@ margin-top: 30px;
    align-items: center;
 }
 .container1_1{
+    margin-left: -1px;
     margin-right: -1px;
     height: 5px;
     width: 50px;
@@ -284,4 +285,7 @@ select::-ms-expand{display: none;}
 }
 .f_3_3:hover{
     color:  #1d7ad9;
+}
+.container{
+
 }
